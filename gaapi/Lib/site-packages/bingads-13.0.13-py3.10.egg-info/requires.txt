@@ -1,0 +1,7 @@
+suds-community>=1.0.0b1
+future
+six
+requests
+
+[:python_version < "3.4"]
+enum34
